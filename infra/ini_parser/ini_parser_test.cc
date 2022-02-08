@@ -460,5 +460,6 @@ TEST(IniParser, NoKey) {
 }
 
 int main() {
+    testing::InitGoogleTest();
     return RUN_ALL_TESTS();
 }
