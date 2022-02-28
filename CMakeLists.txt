@@ -9,5 +9,6 @@ add_subdirectory(3rdparty)
 add_subdirectory(infra/http)
 add_subdirectory(infra/ini_parser)
 add_subdirectory(apps/coro_client)
+add_subdirectory(apps/uring_tools)
 
 
