@@ -1,3 +1,7 @@
 /build
 /bin
 .vscode
+bazel-bin
+bazel-draft
+bazel-out
+bazel-testlogs
